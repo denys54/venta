@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/venta/static/css/main.7f593109.css",
-    "main.js": "/venta/static/js/main.549ba860.js",
+    "main.css": "/venta/static/css/main.63389fa8.css",
+    "main.js": "/venta/static/js/main.145106c4.js",
     "static/js/787.71df535f.chunk.js": "/venta/static/js/787.71df535f.chunk.js",
-    "static/media/bg.jpg": "/venta/static/media/bg.ec13b5535271e8ed295f.jpg",
     "static/media/texture2.jpg": "/venta/static/media/texture2.72a3dc3d2d3a9b63f4d3.jpg",
     "static/media/texture7.jpg": "/venta/static/media/texture7.f1e7e773bd140265040e.jpg",
     "static/media/texture9.jpg": "/venta/static/media/texture9.2cb5d3133f676b5b1f0e.jpg",
@@ -11,12 +10,12 @@
     "static/media/card.jpg": "/venta/static/media/card.75933844949a5d235a8d.jpg",
     "static/media/logo-w.png": "/venta/static/media/logo-w.028d86b021e04f225d00.png",
     "index.html": "/venta/index.html",
-    "main.7f593109.css.map": "/venta/static/css/main.7f593109.css.map",
-    "main.549ba860.js.map": "/venta/static/js/main.549ba860.js.map",
+    "main.63389fa8.css.map": "/venta/static/css/main.63389fa8.css.map",
+    "main.145106c4.js.map": "/venta/static/js/main.145106c4.js.map",
     "787.71df535f.chunk.js.map": "/venta/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f593109.css",
-    "static/js/main.549ba860.js"
+    "static/css/main.63389fa8.css",
+    "static/js/main.145106c4.js"
   ]
 }
